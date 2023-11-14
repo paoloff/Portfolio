@@ -3,10 +3,12 @@ A portfolio showing some of my projects
 
 ## Sentiment Analysis of IMDB Movie Reviews (R and Python)
 
+---
+
 ## Movie Recommendation App from Users Reviews (Python, R and ShinyApps)
-
+---
 ## Predicting the Success of SpaceX's Falcon 9 Missions using Machine Learning (Python and Plotly/Dash)
-
+---
 ## Tower - an app for automating the creation of Trading Bots using Reinforcement Learning (Python and Apache Kafka)
 
 ---
