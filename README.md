@@ -7,7 +7,7 @@ A portfolio showing some of my projects
 
 ## Predicting the Success of SpaceX's Falcon 9 Missions using Machine Learning (Python and Plotly/Dash)
 
-## Tower - an app for automating the creation of Trading Bots using Reinforcement Learning (Python)
+## Tower - an app for automating the creation of Trading Bots using Reinforcement Learning (Python and Apache Kafka)
 
 ---
 
