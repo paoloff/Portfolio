@@ -10,6 +10,13 @@ Part 2 (Python): https://nbviewer.org/github/paoloff/UIUC_DSE/blob/main/STAT542-
 ---
 
 ## Movie Recommendation App from Users Reviews (Python, R and ShinyApps)
+
+Python Notebook for testing the ICBF method:
+
+Movie Recommender website: https://paoloff.shinyapps.io/movierec/
+
+R code for the app: https://github.com/paoloff/UIUC_DSE/tree/main/STAT542-Statistical-Learning/Projects/Project%204%20-%20Movie%20Recommendation%20App/MovieRec
+
 ---
 ## Predicting the Success of SpaceX's Falcon 9 Missions using Machine Learning (Python and Plotly/Dash)
 ---
