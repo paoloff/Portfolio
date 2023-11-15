@@ -5,7 +5,7 @@ A portfolio showing some of my projects
 
 Part 1 (R): https://nbviewer.org/github/paoloff/UIUC_DSE/blob/main/STAT542-Statistical-Learning/Projects/Project%203%20-%20Movie%20Review%20Sentiment%20Analysis/PartI_R.ipynb
 
-Part 2 (Python): https://github.com/paoloff/UIUC_DSE/blob/main/STAT542-Statistical-Learning/Projects/Project%203%20-%20Movie%20Review%20Sentiment%20Analysis/PartII_Python.ipynb
+Part 2 (Python): https://nbviewer.org/github/paoloff/UIUC_DSE/blob/main/STAT542-Statistical-Learning/Projects/Project%203%20-%20Movie%20Review%20Sentiment%20Analysis/PartII_Python.ipynb
 
 ---
 
