@@ -9,7 +9,7 @@ Part 2 (Python): https://nbviewer.org/github/paoloff/UIUC_DSE/blob/main/STAT542-
 
 ---
 
-## Movie Recommendation App from Users Reviews (Python, R and ShinyApps)
+## Movie Recommendation App from Users Reviews (Python, R and Shiny)
 
 Python Notebook for testing the recommendation methods: https://nbviewer.org/github/paoloff/UIUC_DSE/blob/main/STAT542-Statistical-Learning/Projects/Project%204%20-%20Movie%20Recommendation%20App/main.ipynb
 
