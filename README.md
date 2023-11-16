@@ -18,7 +18,7 @@ Movie Recommender website: https://paoloff.shinyapps.io/movierec/
 R code for the app: https://github.com/paoloff/UIUC_DSE/tree/main/STAT542-Statistical-Learning/Projects/Project%204%20-%20Movie%20Recommendation%20App/MovieRec
 
 ---
-## Predicting the Success of SpaceX's Falcon 9 Missions using Machine Learning (Python and Plotly/Dash)
+## Predicting the Success of SpaceX's Falcon 9 Missions using Machine Learning (Python and Plotly Dash)
 ---
 ## Tower - an app for automating the creation of Trading Bots using Reinforcement Learning (Python and Apache Kafka)
 
