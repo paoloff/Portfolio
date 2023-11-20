@@ -34,7 +34,7 @@ https://nbviewer.org/github/paoloff/UIUC_DSE/blob/main/STAT425-Statistical-Model
 ## Tower - an app for automating the creation of Trading Bots using Reinforcement Learning (Python and Apache Kafka)
 
 ---
-## Predicting the Success of SpaceX's Falcon 9 Missions using Machine Learning (Python and Plotly Dash)
+## Predicting the Success of SpaceX Falcon 9 Landing using Machine Learning (Python and Plotly Dash)
 
 Part I: https://nbviewer.org/github/paoloff/Coursera/blob/main/Capstone%20DS%20project/Consolidated/ExtractAndTransform.ipynb
 
