@@ -36,5 +36,9 @@ https://nbviewer.org/github/paoloff/UIUC_DSE/blob/main/STAT425-Statistical-Model
 ---
 ## Predicting the Success of SpaceX's Falcon 9 Missions using Machine Learning (Python and Plotly Dash)
 
+Part I: https://nbviewer.org/github/paoloff/Coursera/blob/main/Capstone%20DS%20project/Consolidated/ExtractAndTransform.ipynb
+Part II: https://nbviewer.org/github/paoloff/Coursera/blob/main/Capstone%20DS%20project/Consolidated/DataVisualization.ipynb
+Part III: https://nbviewer.org/github/paoloff/Coursera/blob/main/Capstone%20DS%20project/Consolidated/Models.ipynb
+
 
 
