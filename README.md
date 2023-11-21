@@ -9,6 +9,8 @@ Part 1 (R): https://nbviewer.org/github/paoloff/UIUC_DSE/blob/main/STAT542-Stati
 
 Part 2 (Python): https://nbviewer.org/github/paoloff/UIUC_DSE/blob/main/STAT542-Statistical-Learning/Projects/Project%203%20-%20Movie%20Review%20Sentiment%20Analysis/PartII_Python.ipynb
 
+This project was an assignment for the STAT 542 class at UIUC.
+
 ---
 
 ## Movie Recommendation App from Users Reviews (Python, R and Shiny)
@@ -20,6 +22,8 @@ Python Notebook for testing the recommendation methods: https://nbviewer.org/git
 Movie Recommender website: https://paoloff.shinyapps.io/movierec/
 
 R code for the app: https://github.com/paoloff/UIUC_DSE/tree/main/STAT542-Statistical-Learning/Projects/Project%204%20-%20Movie%20Recommendation%20App/MovieRec
+
+This project was also an assignment for the STAT 542 class at UIUC.
 
 ---
 
@@ -36,6 +40,7 @@ https://nbviewer.org/github/paoloff/UIUC_DSE/blob/main/STAT425-Statistical-Model
 3. Using one-way and two-way ANOVA, I investigated the effects of different variables in the length-of-stay in hospitals for patients which contracted nosocomial infections:
 https://nbviewer.org/github/paoloff/UIUC_DSE/blob/main/STAT425-Statistical-Modeling/cs3_R.ipynb
 
+These projects were done for the STAT 425 class at UIUC.
 --- 
 ## Tower - a platform for developing and testing Trading Bots using Reinforcement Learning (Python)
 
@@ -51,5 +56,7 @@ Part II (Visualization): https://nbviewer.org/github/paoloff/Coursera/blob/main/
 Part III (ML Modeling): https://nbviewer.org/github/paoloff/Coursera/blob/main/Capstone%20DS%20project/Consolidated/Models.ipynb
 
 Docker Container for Dash App: https://github.com/paoloff/Coursera/tree/main/Capstone%20DS%20project/Consolidated/docker_dashapp
+
+This projects was the final project for IBM's Data Science Professional Certificate (2023).
 
 
