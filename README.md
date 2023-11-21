@@ -42,7 +42,7 @@ https://nbviewer.org/github/paoloff/UIUC_DSE/blob/main/STAT425-Statistical-Model
 ---
 ## Predicting the Success of SpaceX Falcon 9 Landing using Machine Learning (Python, Plotly Dash and Docker)
 
-The goal of this project was to execute a full Data Science pipeline to predict the outcome of SpaceX Falcon 9 landings. The first step was extracting data about Falcon 9 missions using REST APIs and web scraping; followed by data cleaning and EDA to identify relevant variables and their relatioships; then a number of fifferent ML models were trained and tested; finally, a dashboard containing interactive graphics was packaged into Docker container.
+The goal of this project was to execute a full Data Science pipeline to predict the outcome of SpaceX Falcon 9 landings. The first step was extracting data about Falcon 9 missions using REST APIs and web scraping; followed by data cleaning and EDA to identify relevant variables and their relatioships; then a number of different ML models were trained and tested to come up with the most accurate prediction technique; finally, a dashboard containing interactive graphics was packaged into Docker container.
 
 Part I (Data Extraction): https://nbviewer.org/github/paoloff/Coursera/blob/main/Capstone%20DS%20project/Consolidated/ExtractAndTransform.ipynb
 
