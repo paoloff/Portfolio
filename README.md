@@ -42,6 +42,6 @@ Part II: https://nbviewer.org/github/paoloff/Coursera/blob/main/Capstone%20DS%20
 
 Part III: https://nbviewer.org/github/paoloff/Coursera/blob/main/Capstone%20DS%20project/Consolidated/Models.ipynb
 
-Dash App: https://github.com/paoloff/Coursera/tree/main/Capstone%20DS%20project/Consolidated/Dash
+Docker Image for Dash App: https://github.com/paoloff/Coursera/tree/main/Capstone%20DS%20project/Consolidated/docker_dashapp
 
 
