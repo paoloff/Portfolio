@@ -31,7 +31,7 @@ https://nbviewer.org/github/paoloff/UIUC_DSE/blob/main/STAT425-Statistical-Model
 https://nbviewer.org/github/paoloff/UIUC_DSE/blob/main/STAT425-Statistical-Modeling/cs3_R.ipynb
 
 --- 
-## Tower - a platform for developing Trading Bots using Reinforcement Learning (Python)
+## Tower - a platform for developing and testing Trading Bots using Reinforcement Learning (Python)
 
 ---
 ## Predicting the Success of SpaceX Falcon 9 Landing using Machine Learning (Python, Plotly Dash and Docker)
