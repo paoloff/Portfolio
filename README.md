@@ -37,7 +37,11 @@ https://nbviewer.org/github/paoloff/UIUC_DSE/blob/main/STAT425-Statistical-Model
 https://nbviewer.org/github/paoloff/UIUC_DSE/blob/main/STAT425-Statistical-Modeling/cs3_R.ipynb
 
 --- 
-## Tower - a platform for developing and testing Trading Bots using Reinforcement Learning (Python)
+## Tower - a platform for developing and testing Trading Bots using Reinforcement Learning (Python, Torch and Gym)
+
+This is an on-going project for an open source Python library of Reinforcement Learning algorithms (Q-learning, Policy gradient, Multi-armed bandit, etc) applied to the problem of trading securities in financial markets. So far we used Torch and OpenAI's Gym environments to develop the trading agents.
+
+Link to repo: https://github.com/paoloff/Tower
 
 ---
 ## Predicting the Success of SpaceX Falcon 9 Landing using Machine Learning (Python, Plotly Dash and Docker)
