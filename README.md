@@ -1,5 +1,5 @@
 # Portfolio
-A list of some of my projects
+This is a list of some of my projects.
 
 ## Sentiment Analysis of IMDB Movie Reviews (R and Python)
 
