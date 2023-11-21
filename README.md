@@ -25,7 +25,7 @@ R code for the app: https://github.com/paoloff/UIUC_DSE/tree/main/STAT542-Statis
 
 ## Statistics Projects in R
 
-Here are some statistics projects I made in R primarily utilizing linear regression.
+Here are some statistics projects I made in R primarily utilizing linear regression and ANOVA:
 
 1. In this project, I predicted the grades of the last exam of the course Statistical Modeling I at UIUC using Multiple Linear Regression (MLR):
 https://nbviewer.org/github/paoloff/UIUC_DSE/blob/main/STAT425-Statistical-Modeling/cs1_R.ipynb
