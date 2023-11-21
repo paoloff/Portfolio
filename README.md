@@ -1,13 +1,21 @@
 # Portfolio
-A portfolio showing some of my projects
+A list of some of my projects
 
 ## Sentiment Analysis of IMDB Movie Reviews (R and Python)
+
+In this project, I developed a machine learning model to perform Sentiment Analysis on movie reviews. The model was training from a database of reviews taken from iMDB. 
+
+Specifically, given a review in the form of a text, the model will identify whether the review is positive or negative. For this purpose, I utilized techniques such as text vectorization, Logistic Lasso Regression and Neural Networks. 
 
 Part 1 (R): https://nbviewer.org/github/paoloff/UIUC_DSE/blob/main/STAT542-Statistical-Learning/Projects/Project%203%20-%20Movie%20Review%20Sentiment%20Analysis/PartI_R.ipynb
 
 Part 2 (Python): https://nbviewer.org/github/paoloff/UIUC_DSE/blob/main/STAT542-Statistical-Learning/Projects/Project%203%20-%20Movie%20Review%20Sentiment%20Analysis/PartII_Python.ipynb
 
 ---
+
+Here, I developed a model and an app to recommend movies using machine learning. If a user wants to receive recommendation, he can either rate a couple of movies of specify his favorite gender, then the algorithm will return a list of movies which the user will probably like. The main recommendation method is the [IBCF](https://en.wikipedia.org/wiki/Item-item_collaborative_filtering).
+
+Both Python and R were used. The recommendation methods were first manually coded in Python for validation and later implemented in R using external packages. The app was deployed using ShinyApps (link below).
 
 ## Movie Recommendation App from Users Reviews (Python, R and Shiny)
 
