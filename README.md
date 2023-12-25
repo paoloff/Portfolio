@@ -57,7 +57,6 @@ Docker Container for Dash App: https://github.com/paoloff/Coursera/tree/main/Cap
 This project was the final project for IBM's Data Science Professional Certificate (2023).
 
 <br/><br/>
-<br/><br/>
 
 # Apps and Dashboards <a name="apps"></a>
 
