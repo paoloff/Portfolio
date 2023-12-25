@@ -3,7 +3,7 @@ This is a list of some of my projects.
 
 ## Sentiment Analysis of IMDB Movie Reviews (R and Python)
 
-In this project, my team and I developed a machine learning model to perform Sentiment Analysis on movie reviews. The model was trained from a database of reviews taken from iMDB. Specifically, given the review text, the model will identify whether the review is a positive or a negative one. For this purpose, we utilized techniques such as text vectorization, Logistic Lasso Regression and Neural Networks. 
+In this project, my team and I developed a machine learning model to perform Sentiment Analysis on movie reviews. The model was trained from a database of reviews taken from IMDB. Specifically, given the review text, the model will identify whether the review is a positive or a negative one. For this purpose, we utilized techniques such as text vectorization, Logistic Lasso Regression and Neural Networks. 
 
 Part 1 (R): https://nbviewer.org/github/paoloff/UIUC_DSE/blob/main/STAT542-Statistical-Learning/Projects/Project%203%20-%20Movie%20Review%20Sentiment%20Analysis/PartI_R.ipynb
 
