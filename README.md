@@ -4,7 +4,7 @@ This is a list of some of my projects.
 2. [Apps and Dashboards](#apps)
 
 \
-\
+
 
 # Data Science <a name="data-science"></a>
 ## Sentiment Analysis of IMDB Movie Reviews (R and Python)
