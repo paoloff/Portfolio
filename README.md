@@ -3,6 +3,8 @@ This is a list of some of my projects.
 1. [Data Science](#data-science)
 2. [Apps and Dashboards](#apps)
 
+\
+\
 
 # Data Science <a name="data-science"></a>
 ## Sentiment Analysis of IMDB Movie Reviews (R and Python)
