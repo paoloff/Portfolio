@@ -3,8 +3,8 @@ This is a list of some of my projects.
 1. [Data Science](#data-science)
 2. [Apps and Dashboards](#apps)
 
-\
-
+<br/><br/>
+<br/><br/>
 
 # Data Science <a name="data-science"></a>
 ## Sentiment Analysis of IMDB Movie Reviews (R and Python)
@@ -56,6 +56,9 @@ Part III (ML Modeling): https://nbviewer.org/github/paoloff/Coursera/blob/main/C
 Docker Container for Dash App: https://github.com/paoloff/Coursera/tree/main/Capstone%20DS%20project/Consolidated/docker_dashapp
 
 This project was the final project for IBM's Data Science Professional Certificate (2023).
+
+<br/><br/>
+<br/><br/>
 
 # Apps and Dashboards <a name="apps"></a>
 
