@@ -1,6 +1,7 @@
 # Portfolio
 This is a list of some of my projects.
 1. [Data Science](#data-science)
+2. [Apps and Dashboards](#apps)
 
 
 # Data Science <a name="data-science"></a>
@@ -39,13 +40,6 @@ https://nbviewer.org/github/paoloff/UIUC_DSE/blob/main/STAT425-Statistical-Model
 3. Using one-way and two-way ANOVA, I investigated the effects of different variables in the length-of-stay in hospitals for patients which contracted nosocomial infections:
 https://nbviewer.org/github/paoloff/UIUC_DSE/blob/main/STAT425-Statistical-Modeling/cs3_R.ipynb
 
---- 
-## Tower - a platform for developing and testing Trading Bots using Reinforcement Learning (Python, Torch and Gym)
-
-This is an on-going project for an open source Python library of Reinforcement Learning algorithms (Q-learning, Policy Gradient, Multi-armed Bandit, etc) applied to the problem of trading securities in financial markets. So far I used Torch and OpenAI's Gym to develop the trading agents.
-
-Link to repo: https://github.com/paoloff/Tower
-
 ---
 ## Predicting the Success of SpaceX Falcon 9 Landing using Machine Learning (Python, Plotly Dash and Docker)
 
@@ -60,5 +54,18 @@ Part III (ML Modeling): https://nbviewer.org/github/paoloff/Coursera/blob/main/C
 Docker Container for Dash App: https://github.com/paoloff/Coursera/tree/main/Capstone%20DS%20project/Consolidated/docker_dashapp
 
 This project was the final project for IBM's Data Science Professional Certificate (2023).
+
+# Apps and Dashboards <a name="apps"></a>
+
+## Tower - a platform for developing and testing Trading Bots using Reinforcement Learning (Python, Torch and Gym)
+
+This is an on-going project for an open source Python library of Reinforcement Learning algorithms (Q-learning, Policy Gradient, Multi-armed Bandit, etc) applied to the problem of trading securities in financial markets. So far I used Torch and OpenAI's Gym to develop the trading agents.
+
+Link to repo: https://github.com/paoloff/Tower
+
+## Movie Recommendation App from Users Reviews (Python, R and Shiny)
+
+Link to website: https://paoloff.shinyapps.io/movierec/
+
 
 
