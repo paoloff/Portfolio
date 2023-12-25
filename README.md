@@ -1,6 +1,9 @@
 # Portfolio
 This is a list of some of my projects.
+1. [Data Science](#data-science)
 
+
+# Data Science <a name="data-science"></a>
 ## Sentiment Analysis of IMDB Movie Reviews (R and Python)
 
 In this project, my team and I developed a machine learning model to perform Sentiment Analysis on movie reviews. The model was trained from a database of reviews taken from IMDB. Specifically, given the review text, the model will identify whether the review is a positive or a negative one. For this purpose, we utilized techniques such as text vectorization, Logistic Lasso Regression and Neural Networks. 
