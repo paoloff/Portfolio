@@ -60,12 +60,6 @@ This project was the final project for IBM's Data Science Professional Certifica
 
 # Apps and Dashboards <a name="apps"></a>
 
-## Tower - a platform for developing and testing Trading Bots using Reinforcement Learning (Python, Torch and Gym)
-
-This is an on-going project for an open source Python library of Reinforcement Learning algorithms (Q-learning, Policy Gradient, Multi-armed Bandit, etc) applied to the problem of trading securities in financial markets. So far I used Torch and OpenAI's Gym to develop the trading agents.
-
-Link to repo: https://github.com/paoloff/Tower
-
 ## Movie Recommendation App from Users Reviews (Python, R and Shiny)
 
 Link to website: https://paoloff.shinyapps.io/movierec/
